@@ -1,0 +1,40 @@
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.exe.config
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.exe
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.pdb
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmAdmissionDetail.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmBilling.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmDischarge.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmDoctor.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmMainMenu.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmLogin.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmNewPatient.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmPatientList.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmResources.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmSurgicalReport.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmSurgicalReportViewer.resources
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NLHospital.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.exe
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.pdb
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmWards.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.exe.config
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.exe
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.pdb
+C:\Documents and Settings\admin\My Documents\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.btnQuit.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.exe
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\bin\Debug\NewNLHospital.pdb
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.btnQuit.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmAdmissionDetail.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmBilling.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmDischarge.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmDoctor.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmMainMenu.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmLogin.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmNewPatient.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmPatientList.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmResources.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmSurgicalReport.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmSurgicalReportViewer.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NewNLHospital.frmWards.resources
+C:\Users\Claudio\Dropbox\CDI\Integration Project Part 2\NewNLHospital\obj\Debug\NLHospital.csproj.GenerateResource.Cache

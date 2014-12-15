@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~\Adverts\BellAd.JPG</ImageUrl>
+		<NavigateUrl>http://www.bell.ca/</NavigateUrl>
+		<AlternateText>Visit bell.ca</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Services</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\Adverts\TimHortonsAd.JPG</ImageUrl>
+		<NavigateUrl>http://www.timhortons.com/ca/en/</NavigateUrl>
+		<AlternateText>Visit timhortons.com/ca/en</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Product</Keyword>
+	</Ad>	
+</Advertisements>
